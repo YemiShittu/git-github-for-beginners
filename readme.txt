@@ -1,3 +1,3 @@
 Welcome To MyProject!
 
-Author: Qudus
+Author: Qudus Olayemi Shittu
